@@ -39,7 +39,7 @@ html, body {
 p {
     font-size: 1em;
     line-height: 1.4em;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     color: #444;
 }
 
@@ -150,7 +150,7 @@ section:last-child {
 .sub-details {
     font-size: 0.8em;
     font-style: italic;
-    margin-bottom: 3px;
+    margin-bottom: 15px; 
 }
 
 .key-skills {
